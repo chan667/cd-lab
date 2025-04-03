@@ -1,1 +1,3 @@
-# cd-lab
+# compiler_design
+
+## Practical programs ##
